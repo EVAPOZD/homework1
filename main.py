@@ -1,1 +1,1 @@
-print ("hello world!!!!123123")
+print ("hello world!123123")
